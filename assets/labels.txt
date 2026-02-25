@@ -1,0 +1,25 @@
+apple
+avocado
+banana
+bell_pepper
+broccoli
+cabagge
+carrot
+cherry
+chilli
+cucumber
+egg plant
+ginger
+grape
+greenonion
+kiwi
+mango
+onion
+orange
+peach
+pear
+persimmon
+pineapple
+radish
+strawberry
+tomato
