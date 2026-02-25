@@ -192,10 +192,15 @@ Smart-Fruit-Nutrition-App/
 AI Logic & Flutter System Design
 
 영양소 누적 계산 로직 설계
+
 조건 기반 과일 추천 알고리즘 구현
+
 신장질환 제한 로직 설계
+
 TTS 음성 피드백 기능 구현
+
 전체 상태 관리 구조 설계
+
 UI/UX 플로우 설계
 
 수행자 [김동언]
